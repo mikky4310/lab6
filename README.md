@@ -1,3 +1,3 @@
 # lab6
-Hello World!
+Hello World!!!
 I am a student!
